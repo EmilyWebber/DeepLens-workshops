@@ -1,6 +1,6 @@
-# DeepLens-workshops
+# DeepLens Workshop
 
-In this workshop you will learn how to register and configure your DeepLens and deploy a face detection project to your DeepLens. You will see a demo of sentiment analysis project. This project was submitted by Ricardo Mota and Jidesh Veeramachaneni as part of the DeepLens Hackathon challenge. The project was built by extending the face detection project and integrating it with Amazon Rekognition. 
+In this workshop you will learn how to train a model in Amazon SageMaker, register your AWS DeepLens device, and deploy your machine learning model to AWS DeepLens. You will see a demo of a sentiment analysis project. This project was submitted by Ricardo Mota and Jidesh Veeramachaneni as part of the DeepLens Hackathon challenge. The project was built by extending the face detection project and integrating it with Amazon Rekognition. 
 
 The workshop consists of 2 hands-on lab sessions:
 
